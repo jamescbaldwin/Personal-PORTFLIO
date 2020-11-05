@@ -120,14 +120,6 @@ button:active {
     transform: scale(1.2);
 }
 
-/* .profilePic {
-    height: 560px;
-    position: absolute;
-    bottom: 0px;
-    left: 70%;
-    transform: translateX(-70%);
-} */
-
 .about-container {
     opacity: 0.7;
     width: 80%;
@@ -141,10 +133,6 @@ button:active {
     padding: 15px;
     justify-content: center;
 }
-
-/* .about-container img {
-    height: 250px;
-} */
 
 .about-text {
     width: 900px;
@@ -233,28 +221,21 @@ button:active {
 
 .box-container {
     display: flex;
-    /* justify-content: space-between; */
 }
 
 .box-1 {
     background-image: url(Images/momentJS.png);
     background-position: center;
-    /* webkit-filter: grayscale(100%);
-    filter: grayscale(100%); */
 }
 
 .box-2 {
     background-image: url(Images/wanderPlus.png);
     background-position: center;
-    /* webkit-filter: grayscale(100%);
-    filter: grayscale(100%); */
 }
 
 .box-3 {
     background-image: url(Images/passwordGenerator.png);
     background-position: center;
-    /* webkit-filter: grayscale(100%);
-    filter: grayscale(100%); */
 }
 
 .box-1 span, 
@@ -421,5 +402,6 @@ footer {
 }
 
 .contact-section {
+    margin-top: 200px;
     max-height: 250px;
 }

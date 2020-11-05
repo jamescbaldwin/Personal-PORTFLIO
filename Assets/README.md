@@ -7,3 +7,5 @@ Below, a link to the deployed site, as well as a screenshot of the 'final' produ
 https://jamescbaldwin.github.io/Personal-PORTFLIO/Assets/index.html
 
 <img width="1440" alt="Screen Shot 2020-11-04 at 8 19 38 PM" src="https://user-images.githubusercontent.com/70229636/98195336-7ee6bd00-1eef-11eb-88a4-67968da0f735.png">
+
+<img width="1440" alt="Screen Shot 2020-11-04 at 11 16 02 PM" src="https://user-images.githubusercontent.com/70229636/98197072-c96a3880-1ef3-11eb-95a0-3e7cdb22eca9.png">
